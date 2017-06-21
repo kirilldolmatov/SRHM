@@ -1,0 +1,147 @@
+area;rating;avg_price_per_sq
+Arbat;1;425790
+Tverskoe;2;421686
+Jakimanka;3;374718
+Hamovniki;5;347586
+Krasnoselskoe;6;296514
+Meshhanskoe;7;286368
+Lomonosovskoe;8;272460
+Gagarinskoe;8;272460
+Ramenki;8;272460
+Presnenskoe;9;266076
+Dorogomilovo;10;264594
+Begovoe;11;252282
+Taganskoe;12;252168
+Donskoe;13;238773
+Zamoskvoreche;14;236721
+Cheremushki;15;207366
+Prospekt Vernadskogo;16;205542
+Basmannoe;17;201039
+Sokol;18;198759
+Ajeroport;18;198759
+Alekseevskoe;19;195282
+Sokolniki;20;192945
+Horoshevskoe;21;192204
+Savelovskoe;22;190950
+Marina Roshha;22;190950
+Krylatskoe;23;189924
+Akademicheskoe;24;189012
+Nizhegorodskoe;25;186504
+Horoshevo-Mnevniki;27;181374
+Filevskij Park;28;180804
+Rostokino;29;177384
+Ostankinskoe;29;177384
+Troparevo-Nikulino;30;177213
+Fili Davydkovo;31;172368
+Mozhajskoe;31;172368
+Molzhaninovskoe;31;172368
+Danilovskoe;32;167409
+Kotlovka;32;167409
+Kuncevo;33;166668
+Konkovo;34;166554
+Obruchevskoe;34;166554
+Sokolinaja Gora;35;165927
+Timirjazevskoe;36;165072
+Butyrskoe;36;165072
+Strogino;37;164901
+Kurkino;38;163362
+Juzhnoportovoe;39;162222
+Preobrazhenskoe;40;162108
+Nagatinskij Zaton;41;160170
+Nagatino-Sadovniki;41;160170
+Koptevo;42;159315
+Vojkovskoe;42;159315
+Nagornoe;43;159144
+Zjuzino;43;159144
+Sviblovo;44;158460
+Pokrovskoe Streshnevo;45;157548
+Shhukino;45;157548
+Ochakovo-Matveevskoe;46;154584
+Hovrino;47;151050
+Levoberezhnoe;47;151050
+Chertanovo Centralnoe;48;148428
+Chertanovo Severnoe;48;148428
+Lefortovo;49;147744
+Babushkinskoe;50;146718
+Juzhnoe Medvedkovo;50;146718
+Golovinskoe;51;145464
+Juzhnoe Tushino;52;144609
+Severnoe Tushino;52;144609
+Vostochnoe Izmajlovo;53;144438
+Izmajlovo;53;144438
+Severnoe Medvedkovo;54;142899
+Otradnoe;55;142500
+Jasenevo;56;139764
+Marfino;57;139308
+Mitino;58;137313
+Bogorodskoe;59;136743
+Metrogorodok;59;136743
+Tekstilshhiki;60;136401
+Kuzminki;60;136401
+Moskvoreche-Saburovo;61;136116
+Caricyno;61;136116
+Chertanovo Juzhnoe;62;136059
+Perovo;63;135318
+Novogireevo;64;132696
+Ivanovskoe;64;132696
+Bibirevo;65;130872
+Altufevskoe;65;130872
+Orehovo-Borisovo Severnoe;66;130587
+Orehovo-Borisovo Juzhnoe;66;130587
+Teplyj Stan;67;130530
+Pechatniki;68;130302
+Ljublino;69;129903
+Marino;70;129789
+Kapotnja;70;129789
+Lianozovo;71;128592
+Zapadnoe Degunino;72;128136
+Dmitrovskoe;72;128136
+Vostochnoe Degunino;72;128136
+Beskudnikovskoe;72;128136
+Severnoe;72;128136
+Goljanovo;73;127794
+Severnoe Izmajlovo;73;127794
+Poselenie Kievskij;73;127732
+Rjazanskij;74;127281
+Jaroslavskoe;75;125685
+Losinoostrovskoe;75;125685
+Nekrasovka;76;125514
+Kosino-Uhtomskoe;77;125115
+Novokosino;77;125115
+Vostochnoe;77;125115
+Brateevo;78;125058
+Zjablikovo;78;125058
+Severnoe Butovo;79;124659
+Solncevo;80;121752
+Juzhnoe Butovo;81;117876
+Veshnjaki;82;116622
+Vyhino-Zhulebino;82;116622
+Vnukovo;83;116052
+Novo-Peredelkino;83;116052
+Poselenie Vnukovskoe;83;113809
+Birjulevo Vostochnoe;84;109782
+Birjulevo Zapadnoe;84;109782
+Poselenie Mosrentgen;84;104000
+Staroe Krjukovo;85;98211
+Krjukovo;85;98211
+Silino;85;98211
+Savelki;85;98211
+Matushkino;85;98211
+Poselenie Moskovskij;86;94168
+Poselenie Voskresenskoe;87;93630
+Troickij okrug;88;92090
+Poselenie Sosenskoe;89;91315
+Poselenie Desjonovskoe;90;90466
+Poselenie Rjazanovskoe;91;88935
+Poselenie Marushkinskoe;92;84659
+Poselenie Shherbinka;93;82743
+Poselenie Voronovskoe;94;73864
+Poselenie Kokoshkino;95;73748
+Poselenie Filimonkovskoe;96;73537
+Poselenie Mihajlovo-Jarcevskoe;97;72500
+Poselenie Pervomajskoe;98;67683
+Poselenie Krasnopahorskoe;99;61892
+Poselenie Novofedorovskoe;100;54740
+Poselenie Shhapovskoe;101;45036
+Poselenie Rogovskoe;102;44543
+Poselenie Klenovskoe;103;23256
