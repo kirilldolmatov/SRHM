@@ -1,9 +1,9 @@
-area;rating;avg_price_per_sq
+sub_area;rating;avg_price_per_sq
 Arbat;1;425790
 Tverskoe;2;421686
 Jakimanka;3;374718
 Hamovniki;5;347586
-Krasnoselskoe;6;296514
+Krasnosel'skoe;6;296514
 Meshhanskoe;7;286368
 Lomonosovskoe;8;272460
 Gagarinskoe;8;272460
@@ -13,17 +13,17 @@ Dorogomilovo;10;264594
 Begovoe;11;252282
 Taganskoe;12;252168
 Donskoe;13;238773
-Zamoskvoreche;14;236721
+Zamoskvorech'e;14;236721
 Cheremushki;15;207366
 Prospekt Vernadskogo;16;205542
 Basmannoe;17;201039
 Sokol;18;198759
 Ajeroport;18;198759
 Alekseevskoe;19;195282
-Sokolniki;20;192945
+Sokol'niki;20;192945
 Horoshevskoe;21;192204
 Savelovskoe;22;190950
-Marina Roshha;22;190950
+Mar'ina Roshha;22;190950
 Krylatskoe;23;189924
 Akademicheskoe;24;189012
 Nizhegorodskoe;25;186504
@@ -38,7 +38,7 @@ Molzhaninovskoe;31;172368
 Danilovskoe;32;167409
 Kotlovka;32;167409
 Kuncevo;33;166668
-Konkovo;34;166554
+Kon'kovo;34;166554
 Obruchevskoe;34;166554
 Sokolinaja Gora;35;165927
 Timirjazevskoe;36;165072
@@ -59,7 +59,7 @@ Shhukino;45;157548
 Ochakovo-Matveevskoe;46;154584
 Hovrino;47;151050
 Levoberezhnoe;47;151050
-Chertanovo Centralnoe;48;148428
+Chertanovo Central'noe;48;148428
 Chertanovo Severnoe;48;148428
 Lefortovo;49;147744
 Babushkinskoe;50;146718
@@ -76,22 +76,22 @@ Marfino;57;139308
 Mitino;58;137313
 Bogorodskoe;59;136743
 Metrogorodok;59;136743
-Tekstilshhiki;60;136401
-Kuzminki;60;136401
-Moskvoreche-Saburovo;61;136116
+Tekstil'shhiki;60;136401
+Kuz'minki;60;136401
+Moskvorech'e-Saburovo;61;136116
 Caricyno;61;136116
 Chertanovo Juzhnoe;62;136059
 Perovo;63;135318
 Novogireevo;64;132696
 Ivanovskoe;64;132696
 Bibirevo;65;130872
-Altufevskoe;65;130872
+Altuf'evskoe;65;130872
 Orehovo-Borisovo Severnoe;66;130587
 Orehovo-Borisovo Juzhnoe;66;130587
 Teplyj Stan;67;130530
 Pechatniki;68;130302
 Ljublino;69;129903
-Marino;70;129789
+Mar'ino;70;129789
 Kapotnja;70;129789
 Lianozovo;71;128592
 Zapadnoe Degunino;72;128136
@@ -99,7 +99,7 @@ Dmitrovskoe;72;128136
 Vostochnoe Degunino;72;128136
 Beskudnikovskoe;72;128136
 Severnoe;72;128136
-Goljanovo;73;127794
+Gol'janovo;73;127794
 Severnoe Izmajlovo;73;127794
 Poselenie Kievskij;73;127732
 Rjazanskij;74;127281
